@@ -8,5 +8,5 @@ Real Property taxes contribute 41 percent of all City Revenues (Tax and Miscella
 More details: https://www.nyc.gov/site/finance/property/property-calculating-your-annual-tax-blll.page </br>
 For the list of exemptions and other property tax programs: https://www.nyc.gov/site/finance/about/annual-report-on-tax-expenditures.page </br> 
 
-This python script summarizes the changes in property values, which has 5 public data updates between February and May of each year, by class and in aggregate. It contributes to a more accurate forecast of Real Property Tax revenues by providing implications about the ever-changing landscape of NYC properties.
+This python script summarizes the changes in property values, which has 5 public data updates between February and May of each year, by class and in aggregate. It contributes to a more accurate forecast of Real Property Tax revenues by providing implications about the ever-changing landscape of NYC properties reflects in their values.
 
